@@ -1,0 +1,30 @@
+{
+    "hornet": {
+      "stable": "2.0.1",
+      "rc": "2.0.1"
+    },
+    "inx-dashboard": {
+      "stable": "1.0.0",
+      "rc": "1.0.0"
+    },
+    "inx-indexer": {
+      "stable": "1.0.1",
+      "rc": "1.0.1"
+    },
+    "inx-participation": {
+      "stable": "1.0.0",
+      "rc": "1.0.0"
+    },
+    "inx-mqtt": {
+      "stable": "1.0.0",
+      "rc": "1.0.0"
+    },
+    "inx-poi": {
+      "stable": "1.0.0",
+      "rc": "1.0.0"
+    },
+    "inx-irc-metadata": {
+      "stable": "1.0.0",
+      "rc": "1.0.0"
+    }
+}
